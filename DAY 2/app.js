@@ -4,6 +4,8 @@ const player = {
   fat: true,
 };
 
+const a;
+
 console.log(player);
 player.points += 10;
 console.log(player);
