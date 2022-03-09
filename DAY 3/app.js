@@ -64,6 +64,7 @@ console.log(age, parseInt(age));
 
 console.log(isNaN(age)); //NaN일 경우 true를 반환
 
+//if-else 문
 if (isNaN(age) || age < 0) {
   console.log("Please write a correct number");
 } else if (age < 18) {
