@@ -1,1 +1,3 @@
-JAVA SCRIPT
+# JAVA SCRIPT
+
+now learning JavaScript
