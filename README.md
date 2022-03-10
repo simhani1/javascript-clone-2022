@@ -1,1 +1,1 @@
-JAVA SCRIPT
+# Practice JAVA SCRIPT
