@@ -1,0 +1,14 @@
+.startActive {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.midActive {
+  background-color: purple;
+  color: white;
+}
+
+.endActive {
+  background-color: orange;
+  color: white;
+}
