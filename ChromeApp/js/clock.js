@@ -17,3 +17,4 @@ function getClock() {
 //setInterval(함수명, 반복할 주기(ms 단위))
 getClock(); //처음에 1초 지연되는 것을 방지하기 위해 함수를 최초 한번 실행
 setInterval(getClock, 1000);
+//
