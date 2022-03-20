@@ -1,0 +1,26 @@
+.main-info {
+  margin-top: 200px;
+  height: 100px;
+}
+
+.main-info span {
+  font-family: "Staatliches", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: 40px 0px;
+}
+
+#clock {
+  font-size: 100px;
+  text-align: center;
+  color: #ff795b;
+  text-shadow: 4px 4px #ffaa89;
+  margin: 0;
+}
+
+#greeting {
+  font-size: 60px;
+  color: #3b3b3b;
+  letter-spacing: 5px;
+  text-align: center;
+}

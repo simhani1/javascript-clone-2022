@@ -1,0 +1,19 @@
+#weather {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Staatliches", sans-serif;
+  color: #002d65;
+  background-color: #76c4ff4b;
+}
+
+#weather span:first-child {
+  font-size: 25px;
+}
+
+#weather span:last-child {
+  font-size: 20px;
+}

@@ -1,0 +1,44 @@
+.todo-window {
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+
+#todo-form {
+  position: absolute;
+  top: 30px;
+}
+
+#todo-form input {
+  background-color: rgba(255, 255, 255, 0.855);
+  height: 50px;
+  width: 330px;
+  border: none;
+  box-shadow: 0px 0px 10px #696969;
+  font-size: 15px;
+}
+
+#todo-form input::placeholder {
+  color: black;
+  font-family: "taatliches", sans-serif;
+  text-align: center;
+}
+
+#todo-list {
+  font-family: "Staatliches", sans-serif;
+  width: 300px;
+  height: 20px;
+  position: absolute;
+  top: 60px;
+  list-style-type: "👉";
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+}
+
+#todo-list button {
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+}
